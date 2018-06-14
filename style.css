@@ -1,0 +1,87 @@
+header {
+    background-color: dimgrey;
+}
+.logo {
+    padding: 15px;
+    max-width: 40px;
+    max-height: 40px;
+    margin: 0px;
+    float: left;   
+}
+.logoTitle {
+    display: inline-block;
+}
+.logoTitle p {
+    margin: 10px;
+    padding: 5px 10px;
+    color: aliceblue;
+    overflow: hidden;
+    font-size: 2em;
+}
+li {
+    float: right;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+nav a {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    padding: 25px 20px;
+    text-decoration: none;
+}
+
+.main {
+    background-color: black;
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.5em;
+    padding: 100px;
+    margin: 0px;
+}
+.greenBlueBox div {
+    display: inline-block;
+    margin: 5.5%;
+    background-color: aquamarine;
+    padding: 11%;
+    border-radius: 15px;
+}
+.orangeBox div {
+    display: inline-block;
+    background-color: burlywood;
+}
+#left {
+    margin: 0px 0px 0% 5.5%;
+    padding: 100px 21%;
+}
+#right {
+    margin: 0% 5.5% 0% 2%;
+    padding: 100px 21%;
+    float: right;
+}
+.thirdRow {
+    display: inline;
+    margin: 5.5%;
+}
+.text {
+    padding: 20px;
+    width: 300px;
+    height: 134px;
+    margin: 1% 0% 1% 9%;
+    font-size: 1em;
+    float: left;
+
+}
+img {
+    padding: 20px;
+    float: right;
+    margin: 1% 13.5% 1% 0%;
+}
+footer div{
+    
+    background-color: lightslategray;
+    padding: 50px 100%;
+    display: inline-block;
+}
